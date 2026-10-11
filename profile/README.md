@@ -97,5 +97,5 @@ A: Currently we only support the hardware and firmware versions mentioned above.
 **Q: … will flashing affect the original system?**  
 A: No, our loader runs via USB using a backdoor, and does not interfere with the original official OS functions.
 
-> This organization uses the [MIT License](LICENSE) – you are free to use, modify, and distribute.
+> Software projects published by this organization are licensed under the MIT License by default, unless otherwise stated; see the `LICENSE` file in each repository for details.
 ```
