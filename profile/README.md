@@ -26,7 +26,7 @@
 
 The project is still in its early stages, with a basic binary loader prototype already working and several sample programs available. We warmly welcome you to join us!
 
-![](../images/example.jpg)
+![](../images/example.png)
 
 ## I want to get started quickly!
 
